@@ -1,7 +1,37 @@
 
-Create list from json data and on click of list item show full name in new page's actionbar
+<h2>Create list from json data<h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kanulp/FlutterProjects/master/FlutterJson/flutter_json/SCREENSHOTS/Screenshot_1539602040.png" width="350" title="hover text">
-  <img src="https://raw.githubusercontent.com/kanulp/FlutterProjects/master/FlutterJson/flutter_json/SCREENSHOTS/Screenshot_1539602050.png" width="350" alt="accessibility text">
+<table style="height:300px">
+  <col>
+  <col valign="bottom">
+  <tr>
+    <th>Android</th>
+    <th>IOS</th>
+  </tr>
+  <tr>
+    <td><p>
+  <img src="https://raw.githubusercontent.com/kanulp/FlutterProjects/master/flutter_json/SCREENSHOTS/Screenshot_1546451534.png" width="411" height="731"  title="android user list">
 </p>
+    </td>
+    <td>
+      <p>
+  <img src="https://raw.githubusercontent.com/kanulp/FlutterProjects/master/flutter_json/SCREENSHOTS/Simulator Screen Shot - iPhone XR - 2019-01-03 at 00.36.02.png" width="411" height="731"  title="ios user list">
+</p></td>
+    
+  </tr>
+  <tr>
+    <td>
+        <p><img src="https://raw.githubusercontent.com/kanulp/FlutterProjects/master/flutter_json/SCREENSHOTS/Screenshot_1546459719.png" width="411" height="731"  alt="android user detail">
+</p>
+    </td>
+<td>
+ <p>
+  <img src="https://raw.githubusercontent.com/kanulp/FlutterProjects/master/flutter_json/SCREENSHOTS/Simulator Screen Shot - iPhone XR - 2019-01-03 at 01.03.03.png" width="411" height="731"  title="ios user detail">
+</p>
+    </td>
+  </tr>
+</table>
+
+  
+
+
